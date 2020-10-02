@@ -54,8 +54,33 @@ MVVM significa Modelo Vista VistaModelo, porque en este patrón de diseño se se
 
 ## Ejemplifique un modelo MVC en el lenguaje dde preferencia
 
+1.-Symfony
 
+app/: contiene la configuración de la aplicación.
+src/: aquí se encuentra todo el código PHP de la aplicación.
+vendor/: por convención aquí se guardan todas las librerías creadas por terceros.
+web/: este es el directorio web raíz y contiene todos los archivos que se pueden acceder públicamente.
 
+2.-Angular
+
+e2e: Esta carpeta, cuyo nombre es “end to end”, contiene una serie de ficheros que se encargaran de realizar test automáticos, como si un usuario real interactuara con nuestra app. Profundizaremos más en proximos posts.
+node_modules: Es la carpeta que contiene todas nuestras dependencias de nuestro proyecto.
+.editorconfig: Configuración de nuestro editor de código.
+.gitignore: Los archivos o carpetas que debe ignorar git a la hora de añadirlos al repositorio.
+angular.json: Archivo json que contiene la configuración de angular. Este archivo incluye rutas, nombres, versiones, etc.
+package.json: Configuración de nuestra aplicación. Este archivo contiene el nombre de nuestra app, la version, todas las dependencias necesarias para su correcta ejecución, etc.
+tsconfig.json: Este archivo contiene la configuración de TypeScript.
+tslint.json: Es el linter de TypeScript, se usa para mantenibilidad y sostenibilidad de nuestro código.
+
+3.-CakePHP
+
+app
+lib
+vendors
+plugins
+.htaccess
+index.php
+README
 ## Referenciass
 
 https://si.ua.es/es/documentacion/asp-net-mvc-3/1-dia/modelo-vista-controlador-mvc.html
