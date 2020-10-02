@@ -51,3 +51,8 @@ Modelo MV-VM
 
 MVVM significa Modelo Vista VistaModelo, porque en este patrón de diseño se separan los datos de la aplicación, la interfaz de usuario pero en vez de controlar manualmente los cambios en la vista o en los datos, estos se actualizan directamente cuando sucede un cambio en ellos, por ejemplo si la vista actualiza un dato que está presentando se actualiza el modelo automáticamente y viceversa.
 
+
+Ejemplifique un modelo MVC en el lenguaje de preferencia.
+
+
+
