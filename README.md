@@ -55,7 +55,7 @@ MVVM significa Modelo Vista VistaModelo, porque en este patrón de diseño se se
 Ejemplifique un modelo MVC en el lenguaje de preferencia.
 
 
-REferencias
+--Referencias--
 
 https://si.ua.es/es/documentacion/asp-net-mvc-3/1-dia/modelo-vista-controlador-mvc.html
 
