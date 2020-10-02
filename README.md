@@ -1,5 +1,7 @@
 Introducción
 
+¿Que es un modelo MVC?
+
 MVC es una propuesta de arquitectura del software utilizada para separar el código por sus distintas responsabilidades, manteniendo distintas capas que se encargan de hacer una tarea muy concreta, lo que ofrece beneficios diversos.
 
 El patrón MVC se ha convertido en un estándar para el desarrollo de aplicaciones que permite separar la aplicación en tres capas que, aunque estén relacionadas no siempre tiene porque estar juntas. Estas capas son la Vista, el Controlador y el Modelo y a continuación se explica que es cada uno
@@ -9,3 +11,13 @@ El patrón MVC se ha convertido en un estándar para el desarrollo de aplicacion
 •	La Vista, o interfaz de usuario, que compone la información que se envía al cliente y los mecanismos interacción con éste.
 
 •	El Controlador, que actúa como intermediario entre el Modelo y la Vista, gestionando el flujo de información entre ellos y las transformaciones para adaptar los datos a las necesidades de cada uno.
+
+
+Desarrollo
+
+¿Que frameworks utiliza el modelo MVC?
+
+1.-CodeIgniter
+2.-Zend
+3.-Phalcon
+
