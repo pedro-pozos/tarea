@@ -1,7 +1,7 @@
-Introducción
+## Introducción
 
 
-¿Qué es un modelo MVC?
+## ¿Qué es un  MVC?
 
 MVC es una propuesta de arquitectura del software utilizada para separar el código por sus distintas responsabilidades, manteniendo distintas capas que se encargan de hacer una tarea muy concreta, lo que ofrece beneficios diversos.
 
@@ -15,9 +15,9 @@ El patrón MVC se ha convertido en un estándar para el desarrollo de aplicacion
 
 
 
-Desarrollo
+## Desarrollo
 
-¿Qué frameworks utiliza el modelo MVC?
+## ¿Que frameworks utiliza el modelo MVC?
 
 1.-CodeIgniter
 
@@ -31,7 +31,7 @@ Zend te permite enfocarte solo en los componentes y funciones que quieres, e ign
 
 Phalcon es un poco extraño en el mundo de los frameworks PHP. Su código fuente está escrito en C, por lo que es básicamente una extensión C de PHP. Esto suena raro, pero en la práctica, resulta ser uno de los frameworks más rápidos que hemos tenido el placer de usar.
 
-¿Qué ventajas ofrece el modelo MVC?
+##  ¿Qué ventajas ofrece el modelo MVC?
 
 Muchos frameworks MVC ya incluyen librerías de Javascript como Jquery, lo que te facilitará validar formularios (Ej. Jquery.Validate) en el cliente y en el servidor.
 
@@ -45,17 +45,17 @@ Permite que el sistema sea escalable si es requerido.
 
 
 
-¿Qué otros modelos/frameworks existen de patrones de diseño?
+##  ¿Que otros modelos/frameworks existen de patrones de diseño?
 
 Modelo MV-VM
 
 MVVM significa Modelo Vista VistaModelo, porque en este patrón de diseño se separan los datos de la aplicación, la interfaz de usuario pero en vez de controlar manualmente los cambios en la vista o en los datos, estos se actualizan directamente cuando sucede un cambio en ellos, por ejemplo si la vista actualiza un dato que está presentando se actualiza el modelo automáticamente y viceversa.
 
 
-Ejemplifique un modelo MVC en el lenguaje de preferencia.
+## Ejemplifique un modelo MVC en el lenguaje dde preferencia
 
 
---Referencias--
+## Referenciass
 
 https://si.ua.es/es/documentacion/asp-net-mvc-3/1-dia/modelo-vista-controlador-mvc.html
 
