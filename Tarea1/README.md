@@ -1,4 +1,4 @@
-## Introducción.
+## Introducción
 
 
 ## ¿Qué es un  MVC?
