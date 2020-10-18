@@ -81,8 +81,12 @@ Los códigos se clasifican en cinco grandes categorías, las cuales se identific
 | 5XX    | Errores de servidor|
 
 
+- Los códigos de estado 1XX indican respuesta provisional, por lo que el servidor no envía respuesta a cliente, salvo para pruebas.
 
-
+| Codigo  | Razón | Significado |
+|---------|-------|-------------|
+|100      |CONTINUAR| Petición recibida y cliente debe continuar|
+|101     | CAMBIO DE PROTOCOLO|Indica que servidor ha cambiado de protocolo, especificado por cliente anteriormente|
 
 
 #### Referencias bibliograficas
