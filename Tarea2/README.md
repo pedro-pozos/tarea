@@ -1,6 +1,6 @@
 ### Métodos HHTP
 
-##### GET
+#### GET
 
 El método GET  solicita una representación de un recurso específico. Las peticiones que usan el método GET sólo deben recuperar datos.
 
@@ -8,7 +8,7 @@ El método GET  solicita una representación de un recurso específico. Las peti
 
 > <img src="img/get.png">
 
-##### HEAD
+#### HEAD
 
 El método HEAD pide una respuesta idéntica a la de una petición GET, pero sin el cuerpo de la respuesta.
 
@@ -16,7 +16,7 @@ El método HEAD pide una respuesta idéntica a la de una petición GET, pero sin
 
 - Puedes enviar un HEAD request a todos los enlaces para comprobar los que estén rotos. Es bastante más rápido que hacerlo con GET.
 
-##### POST
+#### POST
 
 El método POST se utiliza para enviar una entidad a un recurso en específico, causando a menudo un cambio en el estado o efectos secundarios en el servidor.
 
