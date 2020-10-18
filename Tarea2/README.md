@@ -53,7 +53,7 @@ El método DELETE borra un recurso en específico.
 
 ### OPTIONS
 
-El método OPTIONS es utilizado para describir las opciones de comunicación para el recurso de destino.
+El método OPTIONS es utilizado para describir las opciones de comunicación para el recurso de destino
 
 #### Ejemplo headers en el metodo OPTIONS
 
