@@ -14,7 +14,7 @@ El método HEAD pide una respuesta idéntica a la de una petición GET, pero sin
 
 #### Ejemplo headers en el metodo HEAD
 
-> <img src="img/head.png">
+> <img src="img/hd.png">
 
 ### POST
 
