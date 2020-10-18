@@ -62,9 +62,8 @@ El método OPTIONS es utilizado para describir las opciones de comunicación par
 
 ## Tipos de mensajes de las peticiones HTTP'S
 
-### Intervalo 100-199
 
-a continuación se muestran los códigos de estado http y su significado. Estos códigos son abreviaturas de respuesta HTTP, da al cliente una manera sencilla de comprender el resultado de la transacción.
+A continuación se muestran los códigos de estado http y su significado. Estos códigos son abreviaturas de respuesta HTTP, da al cliente una manera sencilla de comprender el resultado de la transacción.
 
 Se definen en el registro oficial de códigos de estado HTTP, especificado por RFC 2616 y  mantenidos por IANA.
 
