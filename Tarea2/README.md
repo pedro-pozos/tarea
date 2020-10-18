@@ -53,8 +53,34 @@ El método DELETE borra un recurso en específico.
 
 ### OPTIONS
 
-El método OPTIONS es utilizado para describir las opciones de comunicación para el recurso de destino
+El método OPTIONS es utilizado para describir las opciones de comunicación para el recurso de destino.
 
 #### Ejemplo headers en el metodo OPTIONS
 
 > <img src="img/opt.png">
+
+
+## Tipos de mensajes de las peticiones HTTP'S
+
+### Intervalo 100-199
+
+
+
+
+
+
+
+
+
+
+
+
+#### Referencias bibliograficas
+
+https://developer.mozilla.org/es/docs/Web/HTTP/Methods#:~:text=El%20m%C3%A9todo%20GET%20solicita%20una,GET%20s%C3%B3lo%20deben%20recuperar%20datos.&text=El%20m%C3%A9todo%20HEAD%20pide%20una,el%20cuerpo%20de%20la%20respuesta.
+
+
+https://yosoy.dev/peticiones-http-get-post-put-delete-etc/
+
+
+https://restcookbook.com/HTTP%20Methods/patch/
